@@ -26,20 +26,22 @@ Also you can add multi-language Youtube video by making many SRT files and make 
 ![image](https://github.com/user-attachments/assets/c71dd56c-136d-4393-b148-17a947cbd0a2)
 
 2. You should see those files
+
 ![image](https://github.com/user-attachments/assets/24266824-d95e-4106-9d66-81d8bb02306f)
 
 3. write cmd here
+
 ![image](https://github.com/user-attachments/assets/f894a821-faa8-455d-96d8-2c73a5e02611)
 
-4. write this comman ``` python -m virtualenv env ```, so you will see this
+5. write this comman ``` python -m virtualenv env ```, so you will see this
 ![image](https://github.com/user-attachments/assets/591016e4-43aa-4ad6-aebb-0a49f13c14c0)
 
-5. then add the audio file next to ```main.py```, like this
+6. then add the audio file next to ```main.py```, like this
 ![image](https://github.com/user-attachments/assets/e8f62ce1-40ef-49e9-bd0f-f58ca22cefab)
 
-6. now write this comman ```pip install openai-whisper torch argparse``` and wait
+7. now write this comman ```pip install openai-whisper torch argparse``` and wait
 
-7. now we finished
+8. now we finished
 
 
 ## How to use it?

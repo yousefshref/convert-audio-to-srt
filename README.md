@@ -50,7 +50,10 @@ Also you can add multi-language Youtube video by making many SRT files and make 
 now anytime you'll use it you will do these...
 1. add the audio file next to the ```main.py``` file
 2. run this comman ```py main.py audio.mp3``` "change the audio.mp3 to your audio file name"
-And that's it!
+And that's it! It will give you long text in one scene
+You can specify the words you want per every time caption been displayed
+use -> ```py main.py audio.mp3 --words-per-subtitle 3``` change the 3 as you want, and now the subtitle will be max 3 words of the sentence
+
 You can now use this tool anytime. For best results, it's recommended to use it on shorter videos with clear audio to ensure accurate transcription.
 
 ### If you need any help with the setup, feel free to reach out:
